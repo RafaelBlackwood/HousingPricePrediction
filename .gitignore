@@ -1,0 +1,17 @@
+.idea/
+*.iml
+
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+pythonProject/artifacts/
+pythonProject/model_predictions.csv
+*.pkl
+*.joblib
